@@ -64,11 +64,11 @@ Insurance-Fraud-Detection/
 ├── data/                    
 │   ├── raw/                 # Raw data files
 │   └── processed/           # Cleaned and preprocessed data
-├── notebooks/               # Jupyter notebooks for EDA and model training
-│   ├── 00_Introduction.ipynb  
-│   ├── 01_Data_Cleaning.ipynb  
-│   ├── 02_Exploratory_Analysis.ipynb  
-│   └── 03_Model_Evaluation.ipynb
+├── notebook            # Jupyter notebook for EDA and model training
+│   ├── 00_Introduction 
+│   ├── 01_Data_Cleaning
+│   ├── 02_Exploratory_Analysis 
+│   └── 03_Model_Evaluation
 ├── src/                     # Source code scripts for data processing and modeling
 │   ├── __init__.py        
 │   └── utils.py             # Helper functions
